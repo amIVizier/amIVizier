@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning ...programming 
+- 🌱 I’m currently learning more ...programming 
 - 💞️ I’m looking to collaborate on ...coding just coding
 - 📫 How to reach me ...just email me mabanquil@gmail.com
 <!---
